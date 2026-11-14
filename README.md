@@ -44,7 +44,7 @@ MongoDB transactions require a replica set or sharded cluster.
 ```bash
 cd backend
 npm install
-
+```
 
 Copy backend/.env.example to backend/.env and configure:
 - NODE_ENV
